@@ -1,0 +1,2 @@
+-This Project is just a simple SpringBoot Runner Apllication which is done with Layer Application.
+-Databases used is OracleSQL.
